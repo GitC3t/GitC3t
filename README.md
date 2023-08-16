@@ -6,8 +6,5 @@ You can click the Preview link to take a look at your changes.
 Hello!
 No, I don't use GitHub much
 and no, 
-I'm definitly not 13,
-but I hope that I can code
-and program 
-more that in can seem!
-:D
+I don't theoritically know what I am doing,
+✨But this place is cool! :P✨
